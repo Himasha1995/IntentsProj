@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="hello_world">Hello world</string>
+    <string name="to">To</string>
+
+    <string name="ok">OK</string>
+    <string name="number_1">Number 1</string>
+    <string name="number_2">Number 2</string>
+    <string name="sum">+</string>
+
+    <string name="mins">-</string>
+</resources>
